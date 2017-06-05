@@ -5,12 +5,12 @@
     <parent>
         <groupId>my.testproject</groupId>
         <artifactId>test</artifactId>
-        <version>2.0-SNAPSHOT</version>
+        <version>3.0-SNAPSHOT</version>
     </parent>
 
     <groupId>my.testproject.test</groupId>
     <artifactId>module1</artifactId>
-    <version>2.0-SNAPSHOT</version>
+    <version>3.0-SNAPSHOT</version>
 
     
 </project>
